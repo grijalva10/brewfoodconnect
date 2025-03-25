@@ -71,7 +71,3 @@ BrewFood Connect creates a shared, professional-grade toolset for both parties:
 
 ## 📈 Why This Matters Now  
 The explosion of food trucks and the growth of taprooms demand a smarter system for collaboration. BrewFood Connect offers a modern, mobile-first, communications-centric approach to solve a deeply operational pain point for both industries.
-
----
-
-Would you like this turned into a PDF or pitch deck format next? Or want a one-liner tagline to go with it?
