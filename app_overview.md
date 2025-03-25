@@ -1,7 +1,3 @@
-Perfect — here's the revised **App Overview for BrewFood Connect** with **required Email, SMS, and In-App Messaging** included in the core feature set. This version reflects your vision as a focused, high-utility business tool with essential communication baked in.
-
----
-
 # **BrewFood Connect — App Overview**
 
 ## 🧠 What It Is  
